@@ -1,0 +1,1 @@
+{"error":{"status":400,"reason":"Bad Request","message":"Format application/json does not support sample type AUTO.","code":"RENDERER_EXCEPTION"}}
